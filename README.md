@@ -12,8 +12,8 @@ Acredito que minha vivência no marketing e design me trouxe uma visão estraté
 
 Fico à disposição para compartilhar mais sobre minha trajetória e meus objetivos profissionais. Você também pode acompanhar minha jornada de transição para a tecnologia e conhecer mais sobre meu perfil através do meu LinkedIn: "[Clara Petronio](https://www.linkedin.com/notifications/?filter=all)",
 
-   />
-    </a>
+ 
+ 
 </p>
 
 ---
@@ -82,7 +82,7 @@ Fico à disposição para compartilhar mais sobre minha trajetória e meus objet
  />
  
 <br/>
-<br/>
+
 
 
         
