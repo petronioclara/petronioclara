@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Clara Petrônio
 
-**`Estudante de Análise e Desenvolvimento de Sistemask`**
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Meu nome é Clara Petronio e atuo há 9 anos na área de marketing e design, com foco na criação de conteúdo para redes sociais, identidade visual e comunicação digital. Durante essa trajetória, desenvolvi habilidades em criatividade, comunicação, organização e resolução de problemas, sempre buscando criar soluções visuais que gerem resultados e transmitam mensagens de forma clara e eficiente.
 
